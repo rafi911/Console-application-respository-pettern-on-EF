@@ -1,0 +1,15 @@
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\bin\Debug\Advanced_Csharp.exe.config
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\bin\Debug\Advanced_Csharp.exe
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\bin\Debug\Advanced_Csharp.pdb
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.exe
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.pdb
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\bin\Debug\EntityFramework.dll
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\bin\Debug\EntityFramework.xml
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.Migrations.Initialstage.resources
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.csproj.GenerateResource.Cache
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.Migrations.Secondstage.resources
+C:\Users\Rafi\source\repos\Advanced_Csharp\Advanced_Csharp\obj\Debug\Advanced_Csharp.Migrations.AddEmployee.resources
